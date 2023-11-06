@@ -1,5 +1,5 @@
 
-<h1>Hello Git & Github</h1>
+# Hello Git & Github
 
 ![Hello Git](./Media/Header.png)
 
