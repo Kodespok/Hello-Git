@@ -1,9 +1,9 @@
 
 <h1>Hello Git & Github</h1>
 
-![Gray and Pink Futuristic Gaming Channel Banner](https://github.com/Kureikode/Hello-Git/assets/129993636/ffc85a8d-a25f-458d-86a2-e63e6ac6c6de)
+![Hello Git](./Media/Header.png)
 
-[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-2.42+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
 ## En este curso
